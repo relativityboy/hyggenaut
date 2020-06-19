@@ -1,5 +1,3 @@
-## Hyggenaut
-
 **Hygge:**
 
 A mood of coziness and comfortable conviviality with feelings of wellness and contentment.
@@ -12,3 +10,5 @@ Voyager, traveler: hydronaut.
 One likened to a voyager: cybernaut.
 
 Hyggenaut is dedicated to those who explore new ways to create hygge in this modern world.
+
+If you'd like to contribute, send a message by submitting an issue [here](https://github.com/relativityboy/hyggenaut/issues).
