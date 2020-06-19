@@ -2,8 +2,9 @@
 
 **Hygge:**
 
-A mood of coziness and comfortable conviviality with feelings of wellness and contentment
-https://mashable.com/article/hygge-scandinavian-lifestyle-trend/
+A mood of coziness and comfortable conviviality with feelings of wellness and contentment.
+
+<!--https://mashable.com/article/hygge-scandinavian-lifestyle-trend/)-->
 
 **-naut:** (suffix)
 
