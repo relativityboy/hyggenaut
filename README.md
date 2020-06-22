@@ -13,4 +13,4 @@ Hyggenaut is dedicated to those who explore new ways to create hygge in this mod
 
 If a set of tags could describe your typical hyggenaut they might be `#solarpunk` `#conviviality` `#sustainability` `#environmentalism` `#healthspan` `#selfawareness` `#compassion` `#fellowship` `#bicycles` `#campfires` `#justright`
 
-If you'd like to contribute, send a message by submitting an issue [here](https://github.com/relativityboy/hyggenaut/issues).
+This is just the beginning of an idea. If you'd like to contribute, send a message by submitting an issue [here](https://github.com/relativityboy/hyggenaut/issues).
